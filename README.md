@@ -1,4 +1,4 @@
-# Raider Report Converter
+# Burrows-Wheeler Transform
 Python implementation of the Burrows-Wheeler Transform.
 
 ## Usage
